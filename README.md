@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramesh%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Open%20to%20Internships&descAlignY=53&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=vikas%20hugar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Open%20to%20Internships&descAlignY=53&descSize=18"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Vikas+hugar+👋;BCA+Developer+in+the+Making+🤖;Building+Creativity+projects+🧠;python+full+Stack+%7C+JAVA+%7C+Python+🐍;Open+to+Internship+Opportunities+🚀)](https://git.io/typing-svg)
